@@ -1,0 +1,25 @@
+{
+  "name": "sf-subscribe-event",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonygward/sf-subscribe-event.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/tonygward/sf-subscribe-event/issues"
+  },
+  "homepage": "https://github.com/tonygward/sf-subscribe-event#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "salesforce-pubsub-api-client": "^5.2.3"
+  }
+}
