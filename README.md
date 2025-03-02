@@ -1,11 +1,12 @@
 # Example Subscribing to Salesforce Real-Time Event Monitoring
 
-## Configuration
+## Config Files
+- **.env** *authentication* details for client-credentials
 - **subscriptions.json** list of Real-Time Events
-- **.env authentication** details for client-credentials
 
 ## Run
+<code>npm update</code>
 <code>node index.js</code>
 
-## Libraries
+## References
 Built on examples from https://github.com/pozil/pub-sub-api-node-client
